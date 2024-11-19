@@ -2055,7 +2055,7 @@ input, select, textarea {
 	.button {
 		position: relative;
 		display: inline-block;
-		background: #df7366;
+		background: #33A6E6;
 		color: #fff;
 		text-align: center;
 		border-radius: 0.5em;
@@ -2463,7 +2463,7 @@ input, select, textarea {
 		position: relative;
 		overflow: hidden;
 		padding: 6em 0 6em 0;
-		background: #2b252c;
+		background: #3BAF4F;
 		color: #fff;
 	}
 
